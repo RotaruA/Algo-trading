@@ -1,2 +1,2 @@
 # Algo-trading
-Algorithmic trading on crypt-currencies, sports and 
+Algorithmic trading on crypto-currencies, sports and currencies
